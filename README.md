@@ -1,1 +1,1 @@
-[Post]([tr](https://blog.trxsalo.xyz/p/express-ts/)https://blog.trxsalo.xyz/p/express-ts/)
+[Post](https://blog.trxsalo.xyz/p/express-ts/)
